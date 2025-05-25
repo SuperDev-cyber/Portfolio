@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SuperDev-cyber/portfolio.git/static/css/main.c69fecc5.css",
+    "main.js": "/SuperDev-cyber/portfolio.git/static/js/main.412dabdc.js",
+    "static/js/453.e10cc537.chunk.js": "/SuperDev-cyber/portfolio.git/static/js/453.e10cc537.chunk.js",
+    "static/media/TripConnect.png": "/SuperDev-cyber/portfolio.git/static/media/TripConnect.91abd21a463ee95115cc.png",
+    "static/media/E-commerce-store.png": "/SuperDev-cyber/portfolio.git/static/media/E-commerce-store.442c0760eac36617fab8.png",
+    "static/media/myPhoto2.jpg": "/SuperDev-cyber/portfolio.git/static/media/myPhoto2.46c3fd774eff525e29c2.jpg",
+    "static/media/logo.png": "/SuperDev-cyber/portfolio.git/static/media/logo.0bbbf48849170c0d659e.png",
+    "static/media/Flow-Builder.png": "/SuperDev-cyber/portfolio.git/static/media/Flow-Builder.61f63a3f818087a33578.png",
+    "static/media/SGT.png": "/SuperDev-cyber/portfolio.git/static/media/SGT.fc0d5b4ce6e13cb54e58.png",
+    "index.html": "/SuperDev-cyber/portfolio.git/index.html",
+    "static/media/star.svg": "/SuperDev-cyber/portfolio.git/static/media/star.ccb33f8b7332934088b95d01a85c3c3a.svg",
+    "main.c69fecc5.css.map": "/SuperDev-cyber/portfolio.git/static/css/main.c69fecc5.css.map",
+    "main.412dabdc.js.map": "/SuperDev-cyber/portfolio.git/static/js/main.412dabdc.js.map",
+    "453.e10cc537.chunk.js.map": "/SuperDev-cyber/portfolio.git/static/js/453.e10cc537.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c69fecc5.css",
+    "static/js/main.412dabdc.js"
+  ]
+}
